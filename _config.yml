@@ -26,7 +26,7 @@ github_username:  taehoon-jung
 
 # Build settings
 markdown: kramdown
-theme: Jalpc
+theme: minima
 plugins:
   - jekyll-feed
 
