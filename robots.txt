@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://thlife.net/sitemap.xml
