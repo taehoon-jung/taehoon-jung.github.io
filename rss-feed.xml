@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>:::THLIFE:::</title>
+		<description> 내가 살아가는 세상에 대한 이야기.</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>블로그를 이사했어요!</title>
+				
+				
+					<description>&lt;p&gt;참 오랫만에 이렇게 블로그에 글을 쓰는군요.
+그동안 일이 좀 많았고, 요즘 약간 이런게 필요한 시기인것 같아서, 다시 시작하게 되었습니다.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 21 Sep 2017 00:00:00 +0900</pubDate>
+				<link>/diary/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%9D%B4%EC%82%AC%ED%96%88%EC%96%B4%EC%9A%94.html</link>
+				<guid isPermaLink="true">/diary/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%9D%B4%EC%82%AC%ED%96%88%EC%96%B4%EC%9A%94.html</guid>
+			</item>
+		
+	</channel>
+</rss>

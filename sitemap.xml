@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll/update/2017/09/19/welcome-to-jekyll.html</loc>
-<lastmod>2017-09-19T15:48:49+09:00</lastmod>
+<loc>/diary/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%9D%B4%EC%82%AC%ED%96%88%EC%96%B4%EC%9A%94.html</loc>
+<lastmod>2017-09-21T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>/menu/about.html</loc>
+</url>
+<url>
+<loc>/menu/contact.html</loc>
 </url>
 <url>
 <loc>/</loc>
+</url>
+<url>
+<loc>/menu/writing.html</loc>
 </url>
 </urlset>
